@@ -3,8 +3,8 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
-Done by: Rahul V
-Register No: 212223040163
+Done by: Rahul royal k
+Register No: 212224240126
 
 # AIM:
 To practice Linux Commands and Shell Scripting
